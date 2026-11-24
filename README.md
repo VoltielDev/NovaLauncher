@@ -3,7 +3,7 @@
 A free, non-commercial launcher for **Minecraft: Java Edition** by **Voltiel**.
 Бесплатный некоммерческий лаунчер Minecraft: Java Edition от Voltiel.
 
-🌐 Website: https://voltiel.github.io/NovaLauncher/
+🌐 Website: https://voltieldev.github.io/NovaLauncher/
 
 ## Features
 - Microsoft sign-in (licensed accounts only), multiple accounts
